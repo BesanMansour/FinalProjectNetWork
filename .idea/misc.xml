@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.175" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/drawable/border.xml" value="0.181" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/drawable/btn_login_register.xml" value="0.175" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/drawable/ic_email_svgrepo_com.xml" value="0.175" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/drawable/ic_favorite_border.xml" value="0.181" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/drawable/ic_password_svgrepo_com.xml" value="0.175" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/drawable/ic_user_svgrepo_com__3_.xml" value="0.175" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/layout/activity_course.xml" value="0.25" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/layout/activity_next.xml" value="0.25" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/layout/activity_person.xml" value="0.25" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/layout/activity_summary.xml" value="0.25" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/layout/activity_update.xml" value="0.25" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/layout/activity_uplode.xml" value="0.25" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/layout/activity_user_course.xml" value="0.25" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/layout/file_item.xml" value="0.25" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/layout/fragment_blank.xml" value="0.25" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/layout/fragment_blank2.xml" value="0.25" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/layout/image_item.xml" value="0.25" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/layout/item.xml" value="0.264" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/layout/item_list_user.xml" value="0.25" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="..\:/Intelij/FinalProject_NetWork-master/app/src/main/res/layout/user_item.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
